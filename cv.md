@@ -36,5 +36,5 @@ I want to gain experience as quickly as possible
 
 
 ## Language:
-English level - B1 (in progress)
+**English level - B1 (in progress)**
 
