@@ -1,0 +1,144 @@
+ul {
+    padding-left: 20px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 5px gray;    
+}
+
+.header {
+    text-align: center;
+    display: flex;
+}
+
+main {
+    display: flex;
+}
+
+.contacts {
+    margin: 10%;
+}
+
+.skills {
+    margin: 10%;
+}
+
+.skills_list {
+    list-style-type: none;
+}
+
+.list > li {
+    margin-top: 10px;
+}
+.code {
+    margin: 10%;
+}
+
+.work {
+    margin: 0 10%;
+}
+
+.education {
+    margin: 10%;
+}
+
+.language {
+    margin: 10%;
+}
+
+.info {
+    width: 300px;
+    background-color: #b1997a;
+    color: white;
+    font-size: 20px;    
+}
+
+.info_main {
+    color: rgb(70, 70, 70);
+    width: 700px;
+    font-size: 20px;
+    border-bottom: 2px solid #b1997a;
+    border-top: 2px solid #b1997a;
+}
+
+.item {
+    color: rgb(70, 70, 70);
+    font-size: 30px;
+}
+
+.profile-photo {
+    width: 300px;    
+}
+
+.name {
+    width: 70%;
+    margin-top: 8%;  
+    font-size: 25px;  
+}
+
+.projects {
+    margin: 10%;
+}
+
+.line {
+    width: 90%;
+    height: 5px;
+    border-radius: 10px;
+    border:2px solid silver;
+    background-color: lavender;
+}
+
+.block {
+    height: 5px;
+    border-radius: 10px;
+    background-color: rgb(70, 70, 70);
+}
+
+.html {
+    width: 80%;    
+}
+
+.css {
+    width: 65%;
+}
+
+.js {
+    width: 50%;
+}
+
+.git {
+    width: 40%;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(94, 92, 92);
+}
+    
+h1 {
+    color: rgb(94, 92, 92);
+}
+
+.prof {
+    color: #b1997a;
+}
+
+.list_nav {
+    list-style-type: none;
+    font-size: 15px;
+    color: gray;   
+}
+
+.list_nav > li {
+    display: inline;
+    margin: 0 20px;   
+}
+
+
+
